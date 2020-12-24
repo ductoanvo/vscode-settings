@@ -1,6 +1,6 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.settings.editor": "json",
     "workbench.editor.tabCloseButton": "left",
@@ -38,6 +38,7 @@
     "editor.formatOnSave": true,
     "editor.mouseWheelZoom": true,
     "editor.folding": true,
+    "editor.suggest.showFolders": true,
     "breadcrumbs.enabled": true,
     "explorer.autoReveal": true,
     "explorer.sortOrder": "type",
